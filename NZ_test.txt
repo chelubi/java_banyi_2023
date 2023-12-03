@@ -1,0 +1,5 @@
+What is the capital of France?;Paris;London;Berlin;Madrid;Paris
+Who wrote 'Romeo and Juliet'?;William Shakespeare;Charles Dickens;Mark Twain;Leo Tolstoy;William Shakespeare
+What is the chemical symbol for water?;H2O;CO2;O2;N2;H2O
+Who painted the Mona Lisa?;Leonardo da Vinci;Vincent van Gogh;Pablo Picasso;Claude Monet;Leonardo da Vinci
+In which year did the Titanic sink?;1912;1910;1911;1913;1912
